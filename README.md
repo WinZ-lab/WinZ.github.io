@@ -1,1 +1,1 @@
-# WinZ.github.io
+# winz.github.io
